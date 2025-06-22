@@ -44,5 +44,5 @@ if submitted:
     st.markdown("---")
     st.caption("Author- Ganesh Moorthi")
     st.markdown("---")
-    st.caption("For technical context, refer to the related [Medium article](https://medium.com/@ganeshitya).")
+    st.caption("For technical context, refer to the related [Medium article](https://medium.com/@ganeshitya/the-unsung-hero-why-transformer-based-galvanically-isolated-inverters-still-reign-in-india-ed12ea5c60a7?sk=894688ebb0676e8014dbf3fd2328b1e7).")
     
