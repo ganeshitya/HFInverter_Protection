@@ -41,5 +41,7 @@ if submitted:
     st.write(f"**MOV Voltage Rating**: `{mov_voltage} V`")
     st.write(f"**Suggested Surge Protection Device (SPD)**: `{surge_class}` (per IEC 61643)")
     st.markdown("---")
+    st.caption("Author- Ganesh Moorthi)
+    st.markdown("---")
     st.caption("For technical context, refer to the related [Medium article](https://medium.com/@ganeshitya).")
-
+    
