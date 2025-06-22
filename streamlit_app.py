@@ -3,7 +3,7 @@ import math
 
 st.set_page_config(page_title="HF Inverter Input Protection", page_icon="⚡", layout="centered")
 
-st.title("🔌 HF Inverter Input Protection Calculator")
+st.title("HF Inverter Input Protection Calculator by Ganesh Moorthi")
 st.markdown(
     """
 This tool helps size protection components for **single-phase high-frequency inverters (≤15 kW)**  
