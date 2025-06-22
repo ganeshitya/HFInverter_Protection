@@ -8,6 +8,7 @@ st.markdown(
     """
 This tool helps size protection components for **single-phase high-frequency inverters (≤15 kW)**  
 based on typical Indian input grid scenarios.
+Example and Reference only. Actual Calculations might Vary
 """
 )
 
